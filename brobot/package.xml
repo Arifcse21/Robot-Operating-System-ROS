@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>brobot</name>
+  <version>0.0.0</version>
+  <description>The brobot package</description>
+
+  <maintainer email="arifcse21@gmail.com">Arifcse21</maintainer>
+
+
+  <license>MIT</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <export>
+
+  </export>
+</package>

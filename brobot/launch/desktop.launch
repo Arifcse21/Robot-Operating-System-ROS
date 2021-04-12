@@ -1,0 +1,6 @@
+<launch>
+
+	<node name='keyboard_driver' pkg='brobot' type='keyboard_driver.py'/>
+	<node name='rviz' pkg='brobot' type='rviz' args='-d $(find brobot)/rviz/config.rviz'/>
+
+</launch>
